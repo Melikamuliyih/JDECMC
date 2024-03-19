@@ -110,6 +110,13 @@ python track.py mot --load_model ../models/your_pretrained_model --conf_thres 0.
 cd src
 python demo.py mot --load_model ../models/your_pretrained_model --conf_thres 0.4
 ```
+
+### Demo results
+![mot17-06-245](https://github.com/Melikamuliyih/JDECMC/assets/57220094/a688908e-9a4c-4708-af05-06a23f1fa45b)
+![mot17-06-240](https://github.com/Melikamuliyih/JDECMC/assets/57220094/2e4693a7-fc3a-429b-bd36-0513ccf77d24)
+![mot17-06-235](https://github.com/Melikamuliyih/JDECMC/assets/57220094/9f35b654-ceb3-4adb-ad29-1fc2f088b010)
+
+
 ## Acknowledgement
 A large part of the code is borrowed from Zhongdao/Towards-Realtime-MOT, ifzhang/FairMOT, xingyizhou/CenterNet, ByteTrack, BoT-SORT. Thanks for their wonderful works.
 ## Citation
