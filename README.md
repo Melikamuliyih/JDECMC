@@ -89,17 +89,17 @@ We follow the training procedure of FairMOT, if you want to train the model on y
 #### Tracking on MOT17
 ```
 cd src
-python track.py mot --load_model ../models/your_pretrained_model --conf_thres 0.4
+python track.py mot --load_model ../models/your_pretrained_model --conf_thres 0.4 --val_mot17 True
 ```
 #### Tracking on MOT20
 ```
 cd src
-python track.py mot --load_model ../models/your_pretrained_model --conf_thres 0.3
+python track.py mot --load_model ../models/your_pretrained_model --conf_thres 0.3 --val_mot20 True
 ```
 #### Tracking on DanceTrack
 ```
 cd src
-python track.py mot --load_model ../models/your_pretrained_model --conf_thres 0.5
+python track.py mot --load_model ../models/your_pretrained_model --conf_thres 0.5 --val_dance True
 ```
 
 ## Demo
