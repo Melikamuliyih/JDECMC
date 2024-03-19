@@ -63,8 +63,28 @@ pip install -r requirements.txt
 ```
 * We use DCNv2_pytorch_1.7 in our backbone network (pytorch_1.7 branch). Previous versions can be found in DCNv2
 ## Data preparation
+
 ## Training
+#### Training on MOT17
+```
+
+```
+#### Traingin on MOT20
+```
+
+```
 ## Tracking
+#### Tracking on MOT17
+```
+cd src
+python track.py mot --load_model ../models/your_pretrained_model --conf_thres 0.4
+```
+#### Tracking on MOT20
+```
+cd src
+python track.py mot --load_model ../models/your_pretrained_model --conf_thres 0.3
+```
+
 ## Demo
 ## Acknowledgement
 ## Citation
