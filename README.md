@@ -64,6 +64,7 @@ pip install -r requirements.txt
 * We use DCNv2_pytorch_1.7 in our backbone network (pytorch_1.7 branch). Previous versions can be found in DCNv2
 ## Data preparation
 After downloading, you could prepare the data in the following structure:
+```
 MOT17
    |——————images
            └——————train
@@ -81,7 +82,7 @@ DanceTrack
            └——————val
            └——————test
    
-
+```
 ## Training
 
 ```
