@@ -40,3 +40,12 @@ tracking.
 ## Installation
 * Clone this repo, and we'll call the directory that you cloned as ${JDECMC}
 * Install dependencies. We use python 3.8 and pytorch >= 1.7.0
+
+conda create -n JDECMC
+conda activate JDECMC
+conda install pytorch==1.7.0 torchvision==0.8.0 cudatoolkit=10.2 -c pytorch
+cd ${JDECMC}
+pip install cython
+pip install -r requirements.txt
+
+* We use DCNv2_pytorch_1.7 in our backbone network (pytorch_1.7 branch). Previous versions can be found in DCNv2
