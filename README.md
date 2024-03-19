@@ -41,13 +41,13 @@ tracking.
 ### Results on MOT Datasets
 | Dataset    |  MOTA | IDF1  | MT | ML | FPS |
 |--------------|-----------|-------|----------|----------|--------|
-|MOT17       | 74.2 | 72.5 | 43.4% | 12.1% | 24.1 |
-|MOT20       | 72.0 | 72.4 |72.0% | 7.5% | 13.3 |
+|MOT17       | 74.2% | 72.5% | 43.4% | 12.1% | 24.1 |
+|MOT20       | 72.0% | 72.4% |72.0% | 7.5% | 13.3 |
 
 ### Results on DanceTrack Dataset
 | Dataset    |  MOTA | IDF1  | DetA |AssA |
 |--------------|-----------|-------|----------|----------|
-|DanceTrack  | 90.5 | 79.8 |84.1% | 64.9 |
+|DanceTrack  | 90.5% | 79.8% |84.1% | 64.9 |
 
 ## Installation
 * Clone this repo, and we'll call the directory that you cloned as ${JDECMC}
