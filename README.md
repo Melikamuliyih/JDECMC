@@ -91,5 +91,20 @@ python track.py mot --load_model ../models/your_pretrained_model --conf_thres 0.
 ```
 
 ## Demo
+```
+cd src
+python demo.py mot --load_model ../models/your_pretrained_model --conf_thres 0.4
+```
 ## Acknowledgement
+A large part of the code is borrowed from Zhongdao/Towards-Realtime-MOT, ifzhang/FairMOT, xingyizhou/CenterNet, ByteTrack, BoT-SORT. Thanks for their wonderful works.
 ## Citation
+```
+@article{sinishaw2024jdecmc,
+  title={JDECMC: Improving JDE based multi-object tracking with Camera Motion Compensation},
+  author={Sinishaw, Melikamu Liyih and Liu, Shu},
+  journal={Displays},
+  pages={102682},
+  year={2024},
+  publisher={Elsevier}
+}
+```
