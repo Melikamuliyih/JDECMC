@@ -28,11 +28,15 @@ demonstrate our effectiveness and advantages over the other one-shot trackers.
 
 
 ## Highlights
-We effectively address the tracking and speed issues inherent in one-shot trackers,
+* We effectively address the tracking and speed issues inherent in one-shot trackers,
 particularly in crowded and dynamic scenes.
-We use camera motion compensation to address crowded and dynamic scenes by
+* We use camera motion compensation to address crowded and dynamic scenes by
 employing image registration to reveal background objects.
-We introduce embedding and location distance matrix for efficient data association to
+* We introduce embedding and location distance matrix for efficient data association to
 improve tracking speed.
-We propose a simple and efficient online one-shot tracker called JDECMC for multiobject
+* We propose a simple and efficient online one-shot tracker called JDECMC for multiobject
 tracking.
+
+## Installation
+* Clone this repo, and we'll call the directory that you cloned as ${JDECMC}
+* Install dependencies. We use python 3.8 and pytorch >= 1.7.0
