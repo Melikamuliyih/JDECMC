@@ -54,5 +54,5 @@ pip install -r requirements.txt
 ## Training
 ## Tracking
 ## Demo
-## A
+## Acknowledgement
 ## Citation
