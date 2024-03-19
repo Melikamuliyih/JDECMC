@@ -40,7 +40,7 @@ tracking.
 ## Installation
 * Clone this repo, and we'll call the directory that you cloned as ${JDECMC}
 * Install dependencies. We use python 3.8 and pytorch >= 1.7.0
-  
+>
 '''
 conda create -n JDECMC
 conda activate JDECMC
