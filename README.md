@@ -1,4 +1,4 @@
-# Jdecmc
+# JDECMC
 
 #### Our JDECMC method's overall architecture
 ![JDECMC pd](https://github.com/Melikamuliyih/jdecmc/assets/57220094/55104928-9689-4e90-a560-d0f756d9fcee)
