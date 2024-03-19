@@ -23,10 +23,6 @@ MOT17, MOT20, and DanceTrack benchmark datasets, respectively, while also scorin
 an IDF1 of 72.5%, 72.4%, and 79.8% on those benchmarks. The experimental results
 demonstrate our effectiveness and advantages over the other one-shot trackers.
 
-## News
-(2024.03.14) Our paper is accepted by Displays!
-
-
 ## Highlights
 * We effectively address the tracking and speed issues inherent in one-shot trackers,
 particularly in crowded and dynamic scenes.
