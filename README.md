@@ -103,7 +103,7 @@ python track.py mot --load_model ../models/your_pretrained_model --conf_thres 0.
 #### Tracking on DanceTrack
 ```
 cd src
-python track.py mot --load_model ../models/your_pretrained_model --conf_thres 0.3
+python track.py mot --load_model ../models/your_pretrained_model --conf_thres 0.5
 ```
 
 ## Demo
