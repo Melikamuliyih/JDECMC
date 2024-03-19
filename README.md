@@ -15,6 +15,9 @@ of objects, as well as Camera Motion Compensation (CMC) to predict the correct l
 of the bounding box. This is especially useful in scenarios where dynamic camera
 motion can cause the bounding box to shift significantly. By enhancing the accuracy of
 the tracking system, JDECMC achieves a MOTA of 74.2%, 72.0%, and 90.5% on the
-MOT17, MOT20 and DanceTrack benchmark datasets, respectively, while also scoring
+MOT17, MOT20, and DanceTrack benchmark datasets, respectively, while also scoring
 an IDF1 of 72.5%, 72.4%, and 79.8% on those benchmarks. The experimental results
 demonstrate our effectiveness and advantages over the other one-shot trackers.
+
+## News
+(2024.03.26) Our paper is accepted by Displays!
