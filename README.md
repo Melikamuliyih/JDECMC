@@ -1,13 +1,10 @@
-# jdecmc
-
-> [**M.L. Sinishaw and S. Liu, JDECMC: Improving JDE based multi-object
-tracking with Camera Motion Compensation**](https://doi.org/10.1016/j.displa.2024.102682.),            
+# Jdecmc
 
 #### Our JDECMC method's overall architecture
 ![JDECMC pd](https://github.com/Melikamuliyih/jdecmc/assets/57220094/55104928-9689-4e90-a560-d0f756d9fcee)
 
-
-
+> [**M.L. Sinishaw and S. Liu, JDECMC: Improving JDE based multi-object
+tracking with Camera Motion Compensation**](https://doi.org/10.1016/j.displa.2024.102682.),
 # Abstract 
 Jointly Detection and Embedding (JDE) based approaches estimate bounding boxes and
 embedding features of objects with a single network in multi-object tracking. Due to
