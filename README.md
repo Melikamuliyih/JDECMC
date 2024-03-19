@@ -65,14 +65,11 @@ pip install -r requirements.txt
 ## Data preparation
 
 ## Training
-#### Training on MOT17
-```
 
 ```
-#### Traingin on MOT20
+We follow the training procedure of FairMOT, if you want to train the model on your custom dataset follow the FairMOT.
 ```
 
-```
 ## Tracking
 #### Tracking on MOT17
 ```
