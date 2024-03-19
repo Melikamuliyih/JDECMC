@@ -115,7 +115,7 @@ python demo.py mot --load_model ../models/your_pretrained_model --conf_thres 0.4
 
 
 ## Acknowledgement
-A large part of the code is borrowed from Zhongdao/Towards-Realtime-MOT, ifzhang/FairMOT, xingyizhou/CenterNet, ByteTrack, BoT-SORT. Thanks for their wonderful works.
+A large part of the code is borrowed from Zhongdao/Towards-Realtime-MOT, ifzhang/FairMOT, xingyizhou/CenterNet, ByteTrack, and BoT-SORT. Thanks for their wonderful works.
 ## Citation
 ```
 @article{sinishaw2024jdecmc,
