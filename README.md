@@ -21,3 +21,14 @@ demonstrate our effectiveness and advantages over the other one-shot trackers.
 
 ## News
 (2024.03.26) Our paper is accepted by Displays!
+
+
+## Highlights
+We effectively address the tracking and speed issues inherent in one-shot trackers,
+particularly in crowded and dynamic scenes.
+We use camera motion compensation to address crowded and dynamic scenes by
+employing image registration to reveal background objects.
+We introduce embedding and location distance matrix for efficient data association to
+improve tracking speed.
+We propose a simple and efficient online one-shot tracker called JDECMC for multiobject
+tracking.
