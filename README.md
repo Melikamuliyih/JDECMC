@@ -125,6 +125,7 @@ journal = {Displays},
 volume = {83},
 pages = {102682},
 year = {2024},
-issn = {0141-9382}
+issn = {0141-9382},
+publisher={Elsevier}
 }
 ```
