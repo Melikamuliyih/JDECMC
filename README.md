@@ -120,11 +120,11 @@ A large part of the code is borrowed from Zhongdao/Towards-Realtime-MOT, ifzhang
 ```
 @article{SINISHAW2024102682,
 title = {JDECMC: Improving JDE based multi-object tracking with Camera Motion Compensation},
+author = {Melikamu Liyih Sinishaw and Shu Liu},
 journal = {Displays},
 volume = {83},
 pages = {102682},
 year = {2024},
-issn = {0141-9382},
-author = {Melikamu Liyih Sinishaw and Shu Liu},
+issn = {0141-9382}
 }
 ```
